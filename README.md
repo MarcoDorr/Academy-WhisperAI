@@ -8,7 +8,7 @@ This repository provides a captions and translations into english of high qualit
 
 ### How do I use it?
 
-In the repository, create a folder named `videos`, in which you put the mp4-files to process. Then run the script 'main'.
+In the repository put the mp4-files in the folder named `videos` to process. Then run the script 'main'.
 The results appear as [str-files](https://docs.fileformat.com/video/srt/) in the folder `srt_files`.
 As these files are just couple 100 lines of plain text, they are pretty small. These files are ready to use.
 ![image](https://user-images.githubusercontent.com/115226411/215190980-b448ca16-40e1-44a2-8c74-0d8eac179c1c.png)
